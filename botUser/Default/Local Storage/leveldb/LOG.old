@@ -1,0 +1,14 @@
+2020/11/22-21:00:34.139 52e4 Reusing MANIFEST C:\Users\Tran\Desktop\discordBot\botUser\Default\Local Storage\leveldb/MANIFEST-000001
+2020/11/22-21:00:34.139 52e4 Recovering log #53
+2020/11/22-21:00:34.139 52e4 Level-0 table #55: started
+2020/11/22-21:00:34.141 52e4 Level-0 table #55: 21760 bytes OK
+2020/11/22-21:00:34.143 52e4 Delete type=0 #53
+2020/11/22-21:00:34.143 1eb8 Compacting 4@0 + 1@1 files
+2020/11/22-21:00:34.146 1eb8 Generated table #57@0: 171 keys, 19415 bytes
+2020/11/22-21:00:34.146 1eb8 Compacted 4@0 + 1@1 files => 19415 bytes
+2020/11/22-21:00:34.146 1eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/22-21:00:34.146 1eb8 Delete type=2 #44
+2020/11/22-21:00:34.146 1eb8 Delete type=2 #46
+2020/11/22-21:00:34.146 1eb8 Delete type=2 #49
+2020/11/22-21:00:34.147 1eb8 Delete type=2 #52
+2020/11/22-21:00:34.147 1eb8 Delete type=2 #55
